@@ -1,0 +1,3 @@
+selenium==4.18.1
+getindianname
+requests
