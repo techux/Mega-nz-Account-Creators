@@ -2,7 +2,9 @@
 Automatic Mega.nz account creator bot with Python Selenium
 
 ## Demo on Google Colab
-[![Run on Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P84zjhjrGmV0rsRrnvTeeSbjQRtt1slQ?usp=sharing)
+Checkout the working demo on Google Colab
+
+[![Run on Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/techux/Mega-nz-Account-Creators/blob/main/Mega_nz_Account_Generator_Colab.ipynb)
 
 
 # Installation
